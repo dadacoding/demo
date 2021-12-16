@@ -21,6 +21,7 @@ import javax.servlet.http.HttpSession;
 @Log4j2
 public class BoardController {
 
+    //주석으로 Git 테스트
     @Autowired
     private final BoardService service;
 
